@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A80030,100:1a1a2e&height=200&section=header&text=Sistema%20de%20Rifas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=by%20debian&descAlignY=58&descSize=20" width="100%" alt="Sistema de Rifas by debian"/>
 
+🇧🇷 **Português** · [🇺🇸 English](README.en.md)
+
 ### 🎟️ Plataforma completa para criar, vender e sortear rifas online
 
 Venda de cotas com **Pix automático**, painel administrativo, programa de **afiliados**, ranking de compradores e notificações por **WhatsApp**, tudo em um só sistema.
