@@ -103,8 +103,8 @@ Ticket sales with **automatic Pix payments**, an admin dashboard, an **affiliate
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/AlvaroBaarros/Ssitema-Rifa---by---Debian.git
-cd Ssitema-Rifa---by---Debian
+git clone https://github.com/AlvaroBaarros/Raffles-System.git
+cd Raffles-System
 
 # 2. Install dependencies
 composer install

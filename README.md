@@ -101,8 +101,8 @@ Venda de cotas com **Pix automático**, painel administrativo, programa de **afi
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/AlvaroBaarros/Ssitema-Rifa---by---Debian.git
-cd Ssitema-Rifa---by---Debian
+git clone https://github.com/AlvaroBaarros/Raffles-System.git
+cd Raffles-System
 
 # 2. Instale as dependências
 composer install
